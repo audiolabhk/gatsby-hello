@@ -1,0 +1,9 @@
+.section {
+    text-align: center;
+}
+
+.section img {
+    margin: auto;
+    max-width: 33%;
+    border-radius: 2%;
+}
