@@ -5,6 +5,9 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: 'Audiolab HK',
+    tagline: 'Bespoke Audio / Media Production'
+  },
   plugins: [],
 }

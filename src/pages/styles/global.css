@@ -9,7 +9,7 @@
     min-height: 100%;
   }
   body {
-    background: radial-gradient(at top left, rgb(0, 25, 54) 0%, rgb(0, 0, 0) 100%);
+    background: radial-gradient(at top left, rgb(0, 25, 54) 0%, rgb(255, 255, 255) 100%);
     background-repeat: no-repeat;
   }
   p {
